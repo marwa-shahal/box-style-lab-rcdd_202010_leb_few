@@ -1,3 +1,4 @@
+
 body, html {
   width: 100%;
   height: 100%;
@@ -54,3 +55,9 @@ h4 {
 .large {
   width: 303%;
 }
+img { border:5px;}
+body {background-image:url(https://th.bing.com/th/id/OIP.Ru1U62HOzWLM36yV6n-scQHaGC?pid=Api&w=1200&h=979&rs=1) ;}
+.container amiable { box-shadow:20px 20px 20px rgb(0,153,0);}
+.container indifferent  { box-shadow:20px 20px 20px rgb(153,153,0);}
+.container dubious { box-shadow:20px 20px 20px rgb(102,0,0);}
+
